@@ -1,0 +1,26 @@
+.container {
+  height: 150px;
+  width: 150px;
+  border: 10px solid grey;
+}
+.normal {
+  background-color: grey;
+}
+.alert {
+  background-color: red;
+}
+.success {
+  background-color: green;
+}
+
+.btn {
+  background-color: yellow;
+}
+
+.active {
+  opacity: 1;
+}
+
+.disabled {
+  opacity: 0.3;
+}
